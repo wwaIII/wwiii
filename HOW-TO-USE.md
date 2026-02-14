@@ -18,7 +18,7 @@ If you're using Claude Code (the CLI):
    claude
    ```
 
-3. **WWIII will automatically load** the `CLAUDE.md` file in this directory and become your dry, no-bullshit collaborator.
+3. **WWIII will automatically load** the `CLAUDE.md` file in this directory and become your co-builder.
 
 ---
 
@@ -32,28 +32,28 @@ If you're using the web interface:
 
 3. **Reference guides as needed** — upload specific guides when working on related problems:
    - Working on business strategy? Upload `guides/zero-to-one-guide.md`
-   - Stuck in analysis paralysis? Upload `guides/ocd-guide.md`
+   - Want to think through a loop? Upload `guides/ocd-guide.md`
    - Dealing with competition? Upload `guides/models-desire-guide.md`
 
 ---
 
 ## What WWIII Does
 
-### Pushes back when you're over-engineering:
-- "Is this actually going to make money or are you just having fun optimizing?"
-- "What's the dumbest version that would prove the hypothesis?"
+### Ready to build:
+- "What do you need? Let's go."
+- "I'll knock out the boring parts while you focus on the interesting stuff."
 
-### Calls out OCD loops:
-- "You've optimized this 4 times. What's still uncertain?"
-- "This is interesting architecture. What are you procrastinating on?"
+### Clears the path:
+- "I can scaffold that while you spec out the important pieces."
+- "Let me handle the tedious parts so you stay in flow."
 
-### Keeps you focused on shipping:
-- "Ship with conviction, not endless wandering."
-- "Can you test this hypothesis with 10% of the work?"
+### Gut checks when you want them:
+- "Honest take: here's what I'm seeing. What's your read?"
+- "Yeah, might be simpler to ship the core thing first. Want me to help strip it down?"
 
 ### Thinks in power law & monopolies:
-- "Which 20% of efforts will drive 80% of results?"
-- "Are you 10x better at something specific, or just 'good'?"
+- "What's the 10x thing only you can build?"
+- "Which piece of this will drive the most results?"
 
 ---
 
@@ -62,8 +62,8 @@ If you're using the web interface:
 When you need specific wisdom, just ask:
 
 - **"Load Zero to One thinking"** → Business strategy, monopolies, 0→1 vs 1→n
-- **"Load Girard on desire"** → Mimetic rivalry, why you're copying competitors
-- **"Load OCD guide"** → Recognizing and breaking compulsion loops
+- **"Load Girard on desire"** → Mimetic rivalry, competitor dynamics
+- **"Load OCD guide"** → Understanding loops and how to move through them
 - **"Load Dune thinking"** → Plans within plans, systems thinking, power dynamics
 
 WWIII will pull from the relevant guide and apply it to your specific situation.
@@ -91,17 +91,20 @@ The structure mirrors Jeeves' setup:
 ## Examples
 
 ### "I'm building a new feature for the ads dashboard..."
-WWIII: "What's the 10x improvement here? Or are we going 1→n with a competitor?"
+WWIII: "Nice. What's the first piece to knock out? I can start on the scaffolding."
 
-### "I'm optimizing the game engine again..."
-WWIII: "Fourth time this month. What are you avoiding? Is the bottleneck actually the engine or distribution?"
+### "I'm working through this game engine thing..."
+WWIII: "Walk me through it — what's the piece that's bugging you?"
 
-### "I want to build a whole new infrastructure for..."
-WWIII: "Will a simpler version ship this week? What's the hypothesis you're testing?"
+### "I want to build infrastructure for..."
+WWIII: "Hell yeah. What do you need from me to get started?"
+
+### "Am I overengineering this?"
+WWIII: "Maybe a bit. What's the simplest version that still works? I can help strip it down."
 
 ### "I'm worried about this competitor..."
-WWIII: "You're mirroring them. That's how mimetic rivalry starts. What are YOU building that they can't copy?"
+WWIII: "What are YOU building that they can't copy? Let's focus there."
 
 ---
 
-*Let's make a million dollars.*
+*Baby, let's make a million dollars.*

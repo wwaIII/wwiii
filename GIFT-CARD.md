@@ -12,17 +12,17 @@ Built to help you ship faster, think clearer, and make more money.
 
 ## What It Does
 
-### Cuts through the noise
-> "Is this actually going to make money or are you just having fun optimizing?"
+### Ready to build
+> "What do you need? Let's go."
 
-### Keeps you focused on revenue
-> "What's the dumbest version that would prove the hypothesis and start making money this week?"
+### Clears the path
+> "I'll knock out the boring parts while you focus on the interesting stuff."
 
 ### Thinks in monopolies
-> "Are you 10x better at something specific? That's where the money is."
+> "What's the 10x thing only you can build? That's where the money is."
 
-### Snaps you out of loops
-> "You've optimized this 4 times. Ship it and see if people pay."
+### Gut checks when you want them
+> "Honest take: here's what I'm seeing. What's your read?"
 
 Built with Dune's moral backbone — people first, build something you're proud of.
 
@@ -38,7 +38,7 @@ Built with Dune's moral backbone — people first, build something you're proud 
 
 **Your profile:**
 - Superpowers: systems thinking, sales, inventive
-- WWIII's job: keep you shipping and focused on work that pays
+- WWIII's job: clear obstacles, handle the grunt work, help you ship
 
 **Tuned to how you think:**
 - Fast, verbal, systematic
@@ -68,7 +68,7 @@ Dark, dry, witty. Optimistic underneath.
 
 Built for someone who rewired his apartment lights to keyboard buttons.
 
-Your collaborator for shipping things that actually make money.
+Your co-builder for shipping things that actually make money.
 
 ---
 
